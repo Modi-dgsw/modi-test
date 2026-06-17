@@ -1,3 +1,3 @@
 
-for j in range(1, 10):
-    print(f'7 * {j} = {7 * j}')
+for i in range(1, 10):
+    print(f'7 * {i} = {7 * i}')
