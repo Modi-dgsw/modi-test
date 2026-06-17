@@ -1,9 +1,2 @@
-print("9 * 1 = 9")
-print("9 * 2 = 18")
-print("9 * 3 = 27")
-print("9 * 4 = 36")
-print("9 * 5 = 45")
-print("9 * 6 = 54")
-print("9 * 7 = 63")
-print("9 * 8 = 72")
-print("9 * 9 = 81")
+for i in range(1, 10):
+    print(f"9 x {i} = {9 * i}")
